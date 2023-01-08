@@ -2,7 +2,14 @@
 
 <!-- ## 깃허브 명령어 링크
 # https://wordbe.tistory.com/entry/Git-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%ACcommit-push-pull-request-merge-%EB%93%B1  -->
-<!-- # git commit -m "css html update" -->
+
+<!-- # git add . [추가]
+
+# git commit -m "search update" [메시지-남기기]
+
+# git push -u origin main [올리기]
+
+# git pull [데이터-받아오기] -->
 
 <!-- ### 하고 싶은 기능 목록(이거 다 만들고 추가 할것들임)
 - 강아지 다이어리
